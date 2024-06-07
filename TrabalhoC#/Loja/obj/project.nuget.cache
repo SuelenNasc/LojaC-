@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8LTvjggG06c=",
+  "dgSpecHash": "CHCVIk+XxfU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Suelennas\\Desktop\\TrabalhoC#\\Loja\\Loja.csproj",
+  "projectFilePath": "C:\\Users\\Suelennas\\Desktop\\LojaC-\\TrabalhoC#\\Loja\\Loja.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suelennas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Suelennas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suelennas\\Desktop\\TrabalhoC#\\Loja\\Loja.csproj": {}
+    "C:\\Users\\Suelennas\\Desktop\\LojaC-\\TrabalhoC#\\Loja\\Loja.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suelennas\\Desktop\\TrabalhoC#\\Loja\\Loja.csproj": {
+    "C:\\Users\\Suelennas\\Desktop\\LojaC-\\TrabalhoC#\\Loja\\Loja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suelennas\\Desktop\\TrabalhoC#\\Loja\\Loja.csproj",
+        "projectUniqueName": "C:\\Users\\Suelennas\\Desktop\\LojaC-\\TrabalhoC#\\Loja\\Loja.csproj",
         "projectName": "Loja",
-        "projectPath": "C:\\Users\\Suelennas\\Desktop\\TrabalhoC#\\Loja\\Loja.csproj",
+        "projectPath": "C:\\Users\\Suelennas\\Desktop\\LojaC-\\TrabalhoC#\\Loja\\Loja.csproj",
         "packagesPath": "C:\\Users\\Suelennas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suelennas\\Desktop\\TrabalhoC#\\Loja\\obj\\",
+        "outputPath": "C:\\Users\\Suelennas\\Desktop\\LojaC-\\TrabalhoC#\\Loja\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Suelennas\\AppData\\Roaming\\NuGet\\NuGet.Config"
